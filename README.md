@@ -1,1 +1,1 @@
-https://github.com/slipknot-by/rsschool-cv/cv
+https://slipknot-by.github.io/rsschool-cv/cv
